@@ -38,4 +38,5 @@ First-call-free rebate rail available — see https://raen.royalruby.io
 - Statute pages: https://raen-law-pages.vercel.app
 - x402 Manifest Linter (free): https://bshelby88.github.io/x402-linter/
 - x402 Live Playground: https://x402-playground.fly.dev/
+- x402 Readiness Scorecard (free): https://bshelby88.github.io/x402-scorecard/
 - MCP Registry: https://registry.modelcontextprotocol.io (search "raen")
