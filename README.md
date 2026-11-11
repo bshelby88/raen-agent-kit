@@ -40,4 +40,5 @@ First-call-free rebate rail available — see https://raen.royalruby.io
 - x402 Paywall Code Generator (free): https://bshelby88.github.io/x402-paywall-generator/
 - x402 Live Playground: https://x402-playground.fly.dev/
 - x402 Readiness Scorecard (free): https://bshelby88.github.io/x402-scorecard/
+- x402 Payback Calculator (free): https://bshelby88.github.io/raen-payback-calculator/ — pay-per-call vs flat SaaS
 - MCP Registry: https://registry.modelcontextprotocol.io (search "raen")
